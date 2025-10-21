@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#
 NODE=`which node`
 
 nohup $NODE server.js & > log.txt
